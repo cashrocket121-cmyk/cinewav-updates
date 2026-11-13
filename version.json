@@ -1,7 +1,7 @@
 {
   "versionName": "1.0.7",
   "versionCode": 8,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "changelog": "• Added download quality selection\n• Share downloaded videos \n• Save  download videos \n• improve performance ",
   "downloadUrl": "https://github.com/cashrocket121-cmyk/cinewav-updates/releases/download/v1.0.7/CineWav.apk"
 }
