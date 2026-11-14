@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 3,
-  "forceUpdate": false,
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "forceUpdate": true,
   "changelog": "• New home screen with wide banner and more categories\n• Streaming platform banners (Netflix, Prime, and more)\n• New sign in and sign up design\n• Press back twice to exit the app\n• Search results remote navigation fixed\n• Update screen fixed",
   "downloadUrl": "https://github.com/cashrocket121-cmyk/cinewav-updates/releases/download/tv-v1.0.2/CineWav_TV.apk"
 }
