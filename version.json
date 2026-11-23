@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.9",
-  "versionCode": 10,
+  "versionName": "1.1.0",
+  "versionCode": 11,
   "forceUpdate": true,
-  "changelog": "• New Home with Movies, TV, Football, Anime & Dramas tabs\n• Unlimited movies loading as you scroll\n• Full-screen banner and top spacing fixed\n• app Ui improvements\n• New Ui Design\n• Bug fixes & performance improvements",
-  "downloadUrl": "https://github.com/cashrocket121-cmyk/cinewav-updates/releases/download/v1.0.9/CineWav.apk"
+  "changelog": "• New Home with Movies\n• Improve app UI & clean home feed layout\n• Improve landscape player & controls\n• Bug fixes & performance improvements",
+  "downloadUrl": "https://github.com/cashrocket121-cmyk/cinewav-updates/releases/download/v1.1.0/CineWav.apk"
 }
